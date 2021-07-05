@@ -1,4 +1,12 @@
 ---
-title: "Welcome to my website!"
+title: ""
 ---
 
+## About me
+
+
+This is Jinjie Duan. I am a bioinformatician at Department of Biomedicine, Aarhus University, Aarhus, Denmark. My current research interests are,
+
+* the effect of rare genetic variants on human mental disorders, e.g. ADHD, autism and schizophrenia
+
+* the prediction of human mental disorders by combining genetic common and rare variants together with registry data.

@@ -4,18 +4,18 @@ navbar:
   title: "Jinjie Duan"                             # CHANGE HERE 
   type: inverse
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
-    - text: "About"
-      icon: fa-user 
-      href: about.html
-    - text: "CV"
-      icon: fa-file-pdf-o
-      href: cv.html
+    # - text: "Home"
+    #   icon: fa-home
+    #   href: index.html
+    # - text: "About"
+    #   icon: fa-user 
+    #   href: about.html
+    # - text: "CV"
+    #   icon: fa-file-pdf-o
+    #   href: cv.html
     - text: "Blog"
       icon: fa-rss
-      href: https://YOURGITHUB.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
+      href: https://Jinjie-Duan.github.io/blog/  # CHANGE HERE OR DELETE ALL 3 LINES 
   right:
     - text: "Contact me"
       icon: fa-envelope-o
@@ -23,7 +23,13 @@ navbar:
     - text: "GitHub"
       icon: fa-github
       href: https://github.com/Jinjie-Duan       # CHANGE HERE 
+    - text: "LinkedIn"
+      icon: fa-github
+      href: https://www.linkedin.com/in/jinjieduan/ 
+    - text: "Twitter"
+      icon: fa-github
+      href: https://twitter.com/JJDuan 
 output:
   html_document:
-    theme: cosmo
-    highlight: textmate
+    theme: lumen
+    #highlight: textmate
